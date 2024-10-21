@@ -1,0 +1,8 @@
+matplotlib==3.8.0
+numpy==1.25.2
+pandas==2.1.4
+seaborn==0.13.0
+streamlit==1.30.0
+scipy==1.7.1
+os == 2.1.1
+urllib==1.0.1
